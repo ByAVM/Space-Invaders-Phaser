@@ -1,6 +1,6 @@
 # Phaser 3 Space Invaders
 
-Demo: demo.team-team.ru/invaders
+Demo: https://demo.team-team.ru/invaders
 
 ## Requirements
 
